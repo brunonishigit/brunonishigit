@@ -24,27 +24,28 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>💧 <a href="https://github.com/brunonishigit/aquaControl">aquaControl</a></h4>
-      Software desktop em Java para controle consciente do consumo mensal de água por residência.<br/>
-      <b>Recursos:</b> login, CRUD de residências, conexão com MySQL e painel administrativo.<br/>
-      <b>Stack:</b> Java · MySQL
+      <p>Software desktop em Java para controle consciente do consumo mensal de água por residência.</p>
+      <p>🔧 <b>Recursos:</b> login, CRUD de residências, conexão com MySQL e painel administrativo.</p>
+      <p>🧱 <b>Stack:</b> Java · MySQL</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🍽️ <a href="https://github.com/brunonishigit/Sabor-Express">Sabor-Express</a></h4>
-      Aplicativo de terminal desenvolvido em Python que simula um gerenciador de restaurantes.<br/>
-      Projeto desenvolvido durante o curso "Python: crie a sua primeira aplicação".<br/>
-      <b>Stack:</b> Python
+      <p>Aplicativo de terminal desenvolvido em Python que simula um gerenciador de restaurantes.</p>
+      <p>📚 Projeto desenvolvido durante o curso "Python: crie a sua primeira aplicação".</p>
+      <p>🧱 <b>Stack:</b> Python</p>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>📜 <a href="https://github.com/brunonishigit/Certificados">Certificados</a></h4>
-      Repositório com meus certificados de cursos concluídos na área de tecnologia.
+      <p>Repositório com meus certificados de cursos concluídos na área de tecnologia.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🌐 <a href="https://brunonishigit.github.io">Portfólio</a></h4>
-      Meu portfólio pessoal, reunindo projetos e informações sobre minha trajetória.
+      <p>Meu portfólio pessoal, reunindo projetos e informações sobre minha trajetória.</p>
     </td>
   </tr>
 </table>
